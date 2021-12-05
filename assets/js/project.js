@@ -10,6 +10,7 @@ const projects = [
     cardImage: 'assets/images/project-page/snake.jpg',
     description: 'A Snake game that u can play on Your Free Time.',
     tagimg: 'https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png',
+
     Githublink: 'https://github.com/7Sajid/Snake-game-Using-python',
   },
   {
@@ -18,17 +19,21 @@ const projects = [
     cardImage: 'assets/images/project-page/smartc.jpg',
     description: 'A chess engine for a popular game dev engine.',
     tagimg: 'https://image.flaticon.com/icons/png/512/643/643350.png',
-    Previewlink: '',
+    Previewlink: 'https://github.com/7Sajid/Smart-City-Finder',
+
     Githublink: 'https://github.com/7Sajid/Smart-City-Finder',
   },
   {
-    title: 'Music Recommendation Engine',
-    cardImage: 'assets/images/project-page/music.jpg',
+    title:
+      'intelligent voice recognition assistant for Desktop where functionality on current existing applications on other platforms is compared.',
+    cardImage: 'assets/images/project-page/voice.jpg',
     description: 'Built using Python.',
     tagimg:
       'https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67',
-    Previewlink: '',
-    Githublink: '',
+    Previewlink:
+      'https://github.com/7Sajid/Voice-Assistant-Jarvis-Artificial-Intelligence',
+    Githublink:
+      'https://github.com/7Sajid/Voice-Assistant-Jarvis-Artificial-Intelligence',
   },
 ];
 
